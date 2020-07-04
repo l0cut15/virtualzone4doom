@@ -2,6 +2,16 @@
                 Virtual Zone 4 VER 1.2 Documentation
                 ====================================  
 
+4 July 2020
+
+Platform and notes.
+
+This is an old Mod based on the original DOOM engine. Subsequently it runs on DOS.
+To run:1.) Download and install Dosbox.2.) Launch Dosbox and mount the directory where the binaries are installed, eg: "mount c d:\vz4"3.) Run the vz4 batch file.
+Don't enjoy?
+
+--Brett
+
 04-Feb-2004                     
 
 What is Virtual Zone 4:
