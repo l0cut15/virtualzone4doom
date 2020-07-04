@@ -1,6 +1,7 @@
 # virtualzone4doom
-                Virtual Zone 4 VER 1.2 Documentation
-                ====================================  
+
+Virtual Zone 4 VER 1.2 Documentation
+------------------------------------  
 
 4 July 2020
 
@@ -45,36 +46,9 @@ it except for what is remembered and the map on the wall. We have however
 tried to keep as close as possible to it. Hope it doesn't ruin the game.
 
 
-WARNING
--------
-
-VZ4 performs a hack and slash on your DOOM.WAD file and although a backup  of the relevant entries will be made, damage is still possible. MAKE SURE THAT YOU HAVE A BACKUP OF DOOM 
-BEFORE CONTINUING THE INSTALLATION.
-
-INSTALLATION
-------------
-
-To install VZ4 you must have a copy of Doom on your hard drive in the \DOOM 
-directory. You will also need approx. 15 MB of free disk space for optimal 
-performance.
-
-If  you are upgrading DOOM 1.2 to 1.666 do the upgrade before , not installing 
-VZ4. If you don't doom will be corrupted. 
-
-Insert disk 1 into drive A or B and type INSTALL [SOURCE] [TARGET]
-for example INSTALL A C 
-
-Have your activation code ready.
-
-When you are prompted for it type in your code, remembering that the code is 
-case sensitive.
-
-To uninstall VZ4 type BACKOUT.
-
-This program will not work if you have manually deleted any of the files 
-that are created.
 
 PLAYING VZ4
+-----------
 
 To run the updated doom version type DOOM
 
@@ -142,15 +116,12 @@ Patrick GOON Howell : Mapping /  Scanning / Concepts
 
 Gary Joubert : Video capture / Audio samples
 
-ACTORS
-------
-
 PATRICK HOWELL : Normal Enemy
 
 JAYSON : Multi Player Enemy
 
-Special thanks to ZONE 4 laser games for making this possible.
 
+Special thanks to ZONE 4 laser games guys.
 Especially:
 
 Clinton , Craig , Garath , Jayson , Kevin , Nick
