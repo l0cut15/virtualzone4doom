@@ -1,7 +1,7 @@
 # virtualzone4doom
 
 Virtual Zone 4 VER 1.2 Documentation
-------------------------------------  
+ 
 
 4 July 2020
 
