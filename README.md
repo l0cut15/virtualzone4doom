@@ -1,6 +1,6 @@
 # virtualzone4doom
-                Virtual Zone 4 VER 1.2 Documentation
-                ====================================  
+                Virtual Zone 4 VER 1.2 Documentation
+                ====================================  
 
 4 July 2020
 
@@ -12,18 +12,18 @@ Don't enjoy?
 
 --Brett
 
-04-Feb-2004                     
+04-Feb-2004                     
 
 What is Virtual Zone 4:
 -----------------------
 
 VZ4 is simply a patch file for DOOM by ID software. You therefore will require 
 the following a copy of DOOM in order to use this program. There are a couple 
-of different versions of DOOM available mainly the shareware and the 
+of different versions of DOOM available, mainly the shareware and the 
 registered version. The shareware version is a demo version and only has one 
 of the three episodes playable. The shareware version may also be freely 
 distributed. The other is the commercial version, which is the full game and 
-is obtained by registing the shareware version. Details on how to do this are 
+is obtained by registering the shareware version. Details on how to do this are 
 included in the shareware version. To play VZ4 you will need the commercial 
 version of DOOM as the shareware version will not work. It is also suggested 
 that you have version 1.2 or 1.666 as these are the versions that it was 
@@ -48,8 +48,7 @@ tried to keep as close as possible to it. Hope it doesn't ruin the game.
 WARNING
 -------
 
-VZ4 performs a hack and slash on your DOOM.WAD file and although a backup  of the relevant entries will 
-be made damage is still possible. MAKE SURE THAT YOU HAVE A BACKUP OF DOOM 
+VZ4 performs a hack and slash on your DOOM.WAD file and although a backup  of the relevant entries will be made, damage is still possible. MAKE SURE THAT YOU HAVE A BACKUP OF DOOM 
 BEFORE CONTINUING THE INSTALLATION.
 
 INSTALLATION
@@ -59,7 +58,7 @@ To install VZ4 you must have a copy of Doom on your hard drive in the \DOOM
 directory. You will also need approx. 15 MB of free disk space for optimal 
 performance.
 
-If  you upgrading DOOM 1.2 to 1.666 do the upgrade before , not installing 
+If  you are upgrading DOOM 1.2 to 1.666 do the upgrade before , not installing 
 VZ4. If you don't doom will be corrupted. 
 
 Insert disk 1 into drive A or B and type INSTALL [SOURCE] [TARGET]
@@ -82,7 +81,7 @@ To run the updated doom version type DOOM
 To run VZ4 type VZ4
 
 To play over a network (DOOM 1.2 or higher) type IPXVZ4 [number of players]
- 
+ 
 To play over a null modem (DOOM 1.2 or higher) type SERVZ4
 
 REMEMBER to specify the COM port or number of players by using the switches
@@ -126,9 +125,9 @@ Being crushed by a wall whilst recording the sound effects !
 NOTE
 ----
 
-This program is not share ware, pirate ware, of anything else. It took yonks 
+This program is not shareware, pirate ware, of anything else. It took yonks 
 to complete and we are not asking much for it. Please do not distribute. 
-If you purchase it from us you will receive free updates, new maps etc.  
+If you purchase it from us you will receive free updates, new maps etc.  
 
 
 CREDITS
@@ -139,7 +138,7 @@ The following people were responsible for VZ4.
 Brett Samuel ->DEATH<- : Mapping / Texture editing / Programming 
 / Video capture / Audio samples 
 
-Patrick GOON Howell : Mapping /  Scanning / Concepts 
+Patrick GOON Howell : Mapping /  Scanning / Concepts 
 
 Gary Joubert : Video capture / Audio samples
 
@@ -155,4 +154,3 @@ Special thanks to ZONE 4 laser games for making this possible.
 Especially:
 
 Clinton , Craig , Garath , Jayson , Kevin , Nick
-
